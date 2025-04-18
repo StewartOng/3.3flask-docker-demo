@@ -26,4 +26,3 @@ ENV FLASK_RUN_HOST=0.0.0.0
 # Start the Flask app
 CMD ["flask", "run"]
 
-app.run(host="0.0.0.0", port=5000)
